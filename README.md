@@ -1,4 +1,11 @@
-# Dev_Reviews
-Show the dev reviews.<br>
-Shows the reviews in an increasing, decreasing and random way.<br>
-Object manipulation.
+# Introduction
+This is a simple Todo application built off Django.
+
+# Requeriments
+* Python 3
+* Pipenv
+
+# Features
+* Create a new task
+* Delete a task
+* Edit a task
